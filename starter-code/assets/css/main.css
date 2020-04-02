@@ -1761,8 +1761,8 @@ input, select, textarea {
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 75px;
+				height: 75px;
 			}
 
 		.image.fit {
@@ -1790,6 +1790,12 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+
+		#funnyimg{
+			width: 600px;
+			text-align: center;
+			margin-left: 20%;
+		}	
 
 /* List */
 
